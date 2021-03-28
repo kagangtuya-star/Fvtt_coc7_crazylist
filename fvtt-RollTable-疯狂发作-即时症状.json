@@ -1,0 +1,160 @@
+{
+  "name": "疯狂发作-即时症状",
+  "sort": 100001,
+  "flags": {
+    "exportSource": {
+      "world": "不要叫醒沉睡的猫",
+      "system": "CoC7",
+      "coreVersion": "0.7.9",
+      "systemVersion": "0.5.5"
+    }
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "results": [
+    {
+      "_id": "K1Et7ZRcZyJDe3E8",
+      "flags": {},
+      "type": 0,
+      "text": "失忆 ：调查员会发现自己只记得最后身处的安全地 点，却没有任何来到这里的记忆。例如，调查员前 一刻还在家中吃着早饭，下一刻就已经直面着不知 名的怪物。这将会持续1D10轮。",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "6iUTxmGA6rUzYsa6",
+      "flags": {},
+      "type": 0,
+      "text": "假性残疾 ：调查员陷入了心理性的失明，失聪或躯 体缺失感中，持续1D10轮。",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "rw1aEso4Pd4nkoe0",
+      "flags": {},
+      "type": 0,
+      "text": "暴力倾向 ：调查员陷入了六亲不认的暴力行为中， 对周围的敌人与友方进行着无差别的攻击，持续 1D10轮。",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "csmP82y4sXf9LV51",
+      "flags": {},
+      "type": 0,
+      "text": "偏执：调查员陷入了严重的偏执妄想之中，持续１ Ｄ１０轮。所有人都想要伤害他们；没有人可以信 任；他们正在被监视；有人背叛了他们；他们见到 的都是诡计。",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "kxP7mTrFYmMtiEKc",
+      "flags": {},
+      "type": 0,
+      "text": "人际依赖：守秘人适当参考调查员的背景中重要之 人的条目，调查员因为一些原因而将他人误认为了 他重要的人，考虑他们的关系性质，调查员会据此 行动，持续1D10轮",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "tuQdWtVGiiaTCZKn",
+      "flags": {},
+      "type": 0,
+      "text": "昏厥：调查员当场昏倒，并需要1D10轮才能苏 醒。",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "riOtyKacVMotrlsM",
+      "flags": {},
+      "type": 0,
+      "text": "逃避行为：调查员会用任何的手段试图逃离现在所 处的位置，即使这意味着开走唯一一辆交通工具并 将其它人抛诸脑后，调查员会试图逃离1D10轮。",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "fZ93lLuJh8bg9w6c",
+      "flags": {},
+      "type": 0,
+      "text": "竭嘶底里：调查员表现出大笑，哭泣，嘶吼，害怕 等的极端情绪表现，持续1D10轮。",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "hCGtvYZogoULYw9F",
+      "flags": {},
+      "type": 0,
+      "text": "恐惧：调查员投一个D100或者由守秘人选择，来 从恐惧症状表中选择一个恐惧源，就算这一恐惧源 并不存在，调查员也会在接下来的1D10轮内想象 它存在。",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "iPrRqIAn4vdJEQ0n",
+      "flags": {},
+      "type": 0,
+      "text": "躁狂：调查员投一个D100或者由守秘人选择，来 从躁狂症状表中选择一个躁狂的诱因，在接下来的 1D10轮内，调查员会渴望沉溺于他新的躁狂症 中。",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "_id": "3AuzZeuYuamRDcPx",
+  "description": "",
+  "formula": "1d10"
+}

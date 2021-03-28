@@ -1,0 +1,159 @@
+{
+  "name": "短暂性疯狂",
+  "sort": 100001,
+  "flags": {
+    "exportSource": {
+      "world": "curse-of-strahd",
+      "system": "dnd5e",
+      "coreVersion": "0.6.5",
+      "systemVersion": 0.96
+    }
+  },
+  "results": [
+    {
+      "_id": "G9fWKOWlrDpX3Tfs",
+      "flags": {},
+      "type": 0,
+      "text": "角色陷入自己精神世界中并陷入麻痹。若该角色受到伤害则该效应终止。",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1,
+        20
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "2CJ2cIPibxgFLWT7",
+      "flags": {},
+      "type": 0,
+      "text": "角色陷入失能，并在整个持续时间内不停地尖叫、狂笑或嚎泣。",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        21,
+        30
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "LtwtM5iVuvR1o7C5",
+      "flags": {},
+      "type": 0,
+      "text": "角色陷入恐慌，每轮必须使用他的动作和移动力尽可能的远离恐惧的源头。",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        31,
+        40
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "os7OKJnUPi6lV1NZ",
+      "flags": {},
+      "type": 0,
+      "text": "角色变得语无伦次，而无法正常说话和施法。",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        41,
+        50
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZGRuznWW92yr5hXT",
+      "flags": {},
+      "type": 0,
+      "text": "角色每轮必须使用他的动作攻击最近的生物。",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        51,
+        60
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Y1yqTqfSHrFOEV9W",
+      "flags": {},
+      "type": 0,
+      "text": "角色面前出现逼真的幻觉，其属性检定具有劣势。",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        61,
+        70
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "puJq4qSFzaRNoa5w",
+      "flags": {},
+      "type": 0,
+      "text": "角色变得毫无主见，并遵从任何人发出的，不是明显自残的命令。",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        71,
+        75
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "iJuXHbDPMXjBkCr3",
+      "flags": {},
+      "type": 0,
+      "text": "角色内心浮现一种无法抑制冲动敦促自己去吃一些怪异的东西（比如泥土、软泥或内脏）。",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        76,
+        80
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "po3zXFJlLaCE5K8z",
+      "flags": {},
+      "type": 0,
+      "text": "角色陷入震慑。",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        81,
+        90
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "JRvdZdTk3TrU4DjX",
+      "flags": {},
+      "type": 0,
+      "text": "角色陷入昏迷。",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        91,
+        100
+      ],
+      "drawn": false
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "_id": "WPcPQhn2st5jTLjT",
+  "description": "",
+  "formula": "1d100"
+}
